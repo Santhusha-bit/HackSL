@@ -1,7 +1,2 @@
-Dark grey (#2c3e50) - representing the technical and problem-solving aspect of hackathons
-Bright orange (#ffa600) - representing the energy and creativity of the event
-Electric blue (#3498db) - representing innovation and forward-thinking
-Deep purple (#7d5fff) - representing the diverse and inclusive community of the hackathon
-Forest green (#2ecc71) - representing growth and development
-Light grey (#ecf0f1) - representing a clean and modern look for the website
-Black (#000000) - representing elegance and sophistication.
+Dark Purple - #5500e3
+Light Purple(Pink) - #c63dff
